@@ -6,3 +6,11 @@ yarn add express && yarn add nodemon -D
 yarn add typescript ts-node @types/node --save-dev
 
 tsc --init
+
+yarn add jest ts-jest @types/jest -D
+
+yarn add supertest ts-jest @types/supertest -D
+
+yarn add @faker-js/faker --dev
+
+yarn add rosie @types/rosie -D
